@@ -1,0 +1,16 @@
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\GeometryConsoleApp\obj\Debug\netcoreapp3.1\GeometryConsoleApp.csprojAssemblyReference.cache
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\GeometryConsoleApp\obj\Debug\netcoreapp3.1\GeometryConsoleApp.AssemblyInfoInputs.cache
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\GeometryConsoleApp\obj\Debug\netcoreapp3.1\GeometryConsoleApp.AssemblyInfo.cs
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\GeometryConsoleApp\obj\Debug\netcoreapp3.1\GeometryConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\GeometryConsoleApp\bin\Debug\netcoreapp3.1\GeometryConsoleApp.exe
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\GeometryConsoleApp\bin\Debug\netcoreapp3.1\GeometryConsoleApp.deps.json
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\GeometryConsoleApp\bin\Debug\netcoreapp3.1\GeometryConsoleApp.runtimeconfig.json
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\GeometryConsoleApp\bin\Debug\netcoreapp3.1\GeometryConsoleApp.runtimeconfig.dev.json
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\GeometryConsoleApp\bin\Debug\netcoreapp3.1\GeometryConsoleApp.dll
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\GeometryConsoleApp\bin\Debug\netcoreapp3.1\GeometryConsoleApp.pdb
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\GeometryConsoleApp\bin\Debug\netcoreapp3.1\FigureClassLibrary.dll
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\GeometryConsoleApp\bin\Debug\netcoreapp3.1\FigureClassLibrary.pdb
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\GeometryConsoleApp\obj\Debug\netcoreapp3.1\GeometryConsoleApp.csproj.CopyComplete
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\GeometryConsoleApp\obj\Debug\netcoreapp3.1\GeometryConsoleApp.dll
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\GeometryConsoleApp\obj\Debug\netcoreapp3.1\GeometryConsoleApp.pdb
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\GeometryConsoleApp\obj\Debug\netcoreapp3.1\GeometryConsoleApp.genruntimeconfig.cache

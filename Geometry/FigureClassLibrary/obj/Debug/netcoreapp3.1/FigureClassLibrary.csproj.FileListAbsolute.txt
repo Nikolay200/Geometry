@@ -1,0 +1,9 @@
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\FigureClassLibrary\bin\Debug\netcoreapp3.1\FigureClassLibrary.deps.json
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\FigureClassLibrary\bin\Debug\netcoreapp3.1\FigureClassLibrary.dll
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\FigureClassLibrary\bin\Debug\netcoreapp3.1\FigureClassLibrary.pdb
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\FigureClassLibrary\obj\Debug\netcoreapp3.1\FigureClassLibrary.csprojAssemblyReference.cache
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\FigureClassLibrary\obj\Debug\netcoreapp3.1\FigureClassLibrary.AssemblyInfoInputs.cache
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\FigureClassLibrary\obj\Debug\netcoreapp3.1\FigureClassLibrary.AssemblyInfo.cs
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\FigureClassLibrary\obj\Debug\netcoreapp3.1\FigureClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\FigureClassLibrary\obj\Debug\netcoreapp3.1\FigureClassLibrary.dll
+C:\Users\smirnik\Desktop\C#\Geometry\Geometry\FigureClassLibrary\obj\Debug\netcoreapp3.1\FigureClassLibrary.pdb
